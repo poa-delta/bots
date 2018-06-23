@@ -1,7 +1,7 @@
 const Service = require('./service.js');
 
 const token = {
-  addr: '0x8f3470a7388c05ee4e7af3d01d8c722b0ff52374',
+  addr: '0x7957117b2da58636f1f29584677a69b00ea113a3',
   decimals: 18,
 };
 
@@ -11,8 +11,8 @@ const user = {
 };
 
 const config = {
-  addressEtherDelta: '0x8d12a197cb00d4747a1fe03395095ce2a5cc6819',
-  provider: 'https://mainnet.infura.io/Ky03pelFIxoZdAUsr82w',
+  addressEtherDelta: '0x7957117b2da58636f1f29584677a69b00ea113a3',
+  provider: 'https://sokol.infura.io/Ky03pelFIxoZdAUsr82w',
   socketURL: 'https://socket.etherdelta.com',
   gasLimit: 150000,
   gasPrice: 4000000000,
