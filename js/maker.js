@@ -11,7 +11,7 @@ const user = {
 };
 
 const config = {
-  addressEtherDelta: '0x7957117b2da58636f1f29584677a69b00ea113a3',
+  addressEtherDelta: '0xbe27129e42506c151b1c26a42a9dfdc123a75a8d',
   provider: 'https://sokol.infura.io/Ky03pelFIxoZdAUsr82w',
   socketURL: 'https://socket.etherdelta.com',
   gasLimit: 150000,
