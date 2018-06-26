@@ -77,9 +77,9 @@ from web3.utils.encoding import hex_encode_abi_type
 
 # EtherDelta contract address
 # This rarely changes.
-addressEtherDelta = '0x8d12A197cB00D4747a1fe03395095ce2A5CC6819'    # etherdelta_2's contract address
+addressEtherDelta = '0xbe27129e42506c151b1c26a42a9dfdc123a75a8d'    # etherdelta_2's contract address
 # Global API interfaces
-web3 = Web3(HTTPProvider('https://mainnet.infura.io/Ky03pelFIxoZdAUsr82w'))
+web3 = Web3(HTTPProvider('https://sokol.infura.io/oKy3doMu6apGNsmvua7V'))
 
 class EtherDeltaClientService:
 
