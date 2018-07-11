@@ -12,7 +12,7 @@ const user = {
 
 const config = {
   addressEtherDelta: '0xba5775cfbd48a00d014853296ea04fe6e9e4d838',
-  provider: 'https://sokol.poa.network/Ky03pelFIxoZdAUsr82w',
+  provider: 'https://sokol.infura.io/Ky03pelFIxoZdAUsr82w',
   socketURL: 'https://socket.etherdelta.com',
   gasLimit: 150000,
   gasPrice: 4000000000,
